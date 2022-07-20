@@ -111,7 +111,7 @@ h2 {
   border: 1px solid #FFFFFF;
   border-radius: 17px;
   font-family: 'Epilogue', sans-serif;
-  align-items: flex-start;
+  align-items: center;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -120,15 +120,12 @@ h2 {
 }
 
 .select-name {
-  width: 301px;
-  font-style: normal;
   font-weight: 700;
   font-size: 35px;
   line-height: 120%;
-  letter-spacing: -0.04em;
 }
 
 hr {
   border: 1px solid #FFFFFF;
-  width: 99%;
+  width: 99.9%;
 }
